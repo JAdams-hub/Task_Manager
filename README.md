@@ -22,6 +22,7 @@ This program provides the user with the menu that essentially gives the user the
 The menu comes in the following format:
 
 Select one of the following options below:
+
 r - Registering a user
 
 a - Add a task
@@ -35,6 +36,7 @@ gr - Generate reports
 ds - Display statistics
 
 e - Exit
+
 
 - Note that this menu is specifically for the admin of the program. Other users will not have access to the 'generate reports' and 'Display statistics' options.
 
