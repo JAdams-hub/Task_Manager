@@ -23,11 +23,17 @@ The menu comes in the following format:
 
 Select one of the following options below:
 r - Registering a user
+
 a - Add a task
+
 va - View all tasks
+
 vm - View my task
+
 gr - Generate reports
+
 ds - Display statistics
+
 e - Exit
 
 - Note that this menu is specifically for the admin of the program. Other users will not have access to the 'generate reports' and 'Display statistics' options.
